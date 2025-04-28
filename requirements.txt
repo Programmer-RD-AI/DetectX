@@ -217,7 +217,7 @@ msal==1.16.0
 msal-extensions==0.2.2
 msgpack==1.0.3
 msrest==0.6.21
-msrestazure==0.6.4
+msrestazure==0.6.4.post1
 mugshot==0.4.2
 multidict==5.2.0
 multitasking==0.0.10

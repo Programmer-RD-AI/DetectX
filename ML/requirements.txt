@@ -180,7 +180,7 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 libclang==12.0.0
 libcst==0.3.23
-libretranslatepy==2.1.1
+libretranslatepy==2.1.4
 livereload==2.6.3
 lockfile==0.12.2
 lxml==4.6.5

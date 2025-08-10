@@ -191,7 +191,7 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 libclang==12.0.0
 libcst==0.3.23
-libretranslatepy==2.1.1
+libretranslatepy==2.1.4
 librosa==0.8.1
 libvirt-python==6.1.0
 lightdm-gtk-greeter-settings==1.2.2
